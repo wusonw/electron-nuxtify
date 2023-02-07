@@ -1,55 +1,17 @@
-# Minimal Nuxt TS Template
-- [Github Action Demo](https://seonglae.github.io/nuxtify)
-- [Vercel Demo](https://nuxtify.vercel.app)
+# Electron-nuxtify
 
-## Get Started
+## Installation
 
-```bash
-git clone https://github.com/seonglae/nuxtify
-yarn
-yarn dev
+``` sh
+git clone https://github.com/wusonw/electron-nuxtify.git
+
 ```
+## Usage
 
-## Components
-- Toast Snackbar
-- Loading
-- Error Page
+``` sh
+yarn
 
-### Desktop View
-![Desktop View](image/desktop.png)
+yarn dev
 
-### Mobile View
-![Mobile View](image/mobile.png)
-
-### Error View
-![Error Page](image/error.png)
-
-### Modules
-
-- Vuetify
-- Vuex
-- Axios
-- Vue Composition API
-
-
-### Configs
-
-- SEO Options
-- Optimize Options
-
-### Develop Tools
-
-- nodemon
-- Prettier
-- Github Action
-  - Build Pipeline - CI
-  - Github Page - CD
-
-## Philosophy
-
-- Atomic Design Pattern
-- Minimalism
-
-## Examples
-
-- [Pointland](point.seongland.com) - [Repository](github.com/seongland/pointland)
+yarn electron
+```
